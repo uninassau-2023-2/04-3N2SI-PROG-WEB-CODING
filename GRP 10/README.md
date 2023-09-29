@@ -9,3 +9,4 @@
 * Alessandro Mathews - 01614625
 * Thiago Vinicius - 01664566
 * Eduardo Marinho - 01625908
+* Lucas Alves - 01666469
