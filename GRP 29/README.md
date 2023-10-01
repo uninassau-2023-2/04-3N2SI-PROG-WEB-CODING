@@ -1,4 +1,4 @@
-# Grupo 29
+# Alunos
 
 Thiago Pessoa     - 01089643
 Kaian Guthierry   - 01617843
