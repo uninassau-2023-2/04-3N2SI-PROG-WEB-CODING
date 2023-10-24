@@ -1,4 +1,12 @@
 
+# 04-3N2SI-PROG-MOBILE
+# Alunos
+
+* Marcus Trummer - 01650257
+* Leticia Pinheiro  - 01651848
+* Alessandra Cosmo - 01630775
+
+
 # Grupo 29
 
 Thiago Pessoa     - 01089643
@@ -13,3 +21,5 @@ Nivaldo Arruda    - 01486768
 Marcio Costa - 01596976
 Fernando Freitas - 01631175
 Joaes Gois - 01599569
+
+
