@@ -1,3 +1,4 @@
+
 # Grupo 29
 
 Thiago Pessoa     - 01089643
@@ -7,3 +8,8 @@ Marlon Porto      - 01611478
 Guilherme de Luna - 01615925
 Filipe Alves      - 01619675
 Nivaldo Arruda    - 01486768
+
+# 04-3N2SI-PROG-MOBILE
+Marcio Costa - 01596976
+Fernando Freitas - 01631175
+Joaes Gois - 01599569
