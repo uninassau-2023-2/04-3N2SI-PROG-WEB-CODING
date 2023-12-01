@@ -17,3 +17,5 @@ alunos
 * Daniel de Araujo - 01643124
 
 * Lucas Alves - 01666469
+
+* Rafael Jose de Araujo Procópio - 01589882
