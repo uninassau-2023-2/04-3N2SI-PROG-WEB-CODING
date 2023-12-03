@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Kdam Thmor Pro', cursive;
+}
+
+body {
+    text-align: center;
+    min-height: 100vh;
+    background: linear-gradient(to bottom, #6ab7f5, #fff );
+}
+
+
+main {
+    display: inline-block;
+    margin-top: 2%;
+    padding: 15px;
+    position: relative;
+}
+
+.pokedex {
+    width: 100%;
+    max-width: 600px;
+}
+
+.pokemon__imagem {
+    position: absolute;
+    left: 27%;
+    bottom:47%;
+    transform: translate(-30%, 10%);
+    height: 20%;
+}
+
+.pokemon__data {
+    position: absolute;
+    font-weight: 600;
+    color: rgb(53, 42, 42);
+    top: 76%;
+    right: 66%;
+    background: #ffffff;
+    font-size: clamp(8px, 4vw, 25px);
+    border: 1px solid black;
+    border-radius: 5px;
+    padding-top:6px ;
+   
+}
+
+.pokemon__name {
+    text-transform: capitalize;
+}
+
+.form {
+    position:absolute;
+    width: 30%;
+    top:34%;
+    left:59% ;
+
+}
+
+.input__search {
+    width: 100%;
+    padding: 12%;
+    outline: none;
+    border: 2px solid #333;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: clamp(8px, 4vw, 15px);
+    box-shadow: -2px 3px 0 #888, -4px 5px 0 #333;
+    text-align: center;
+}
+
+.buttons {
+    position: absolute;
+    bottom: 15.9%;
+    left: 63.7%;
+    width: 65%;
+    /*background-color: red;*/
+    transform: translate(-6%, 0);
+    display: flex;
+    gap: 15px;
+}
+
+.button {
+    width: 21%;
+    border: 2px solid #000;
+    border-radius: 5px;
+    font-size: clamp(4px,4vw,1rem );
+    font-weight: 600;
+    color: white;
+    background-color: #444;
+    box-shadow: -1px 2px 0 #222, -3px 5px 0 #000;
+}
+
+.button:active {
+    box-shadow: inset -3px 3px 0 #222;
+    font-size: 0.9rem;
+}
